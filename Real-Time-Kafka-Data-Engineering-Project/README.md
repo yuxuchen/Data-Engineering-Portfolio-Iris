@@ -12,7 +12,7 @@ This project demonstrates a real-time stock market data analysis pipeline using 
 4. AWS Cloud Platform
    - EC2
    - Athena
-   - S3 bucket
+   - S3 
    - Glue Crawler
 
 ## Dataset Used
