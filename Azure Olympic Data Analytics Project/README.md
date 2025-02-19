@@ -12,6 +12,9 @@ This project focuses on building a complete data pipeline for analyzing Paris Ol
 4. Azure Synapse Analytics: Provides a data warehouse for analytical queries.
 5. Power BI: Visualizes insights with an interactive dashboard.
 
+## Paris Olympic Powerbi Dashboard
+![project architecture](olympic_dashboard.png)
+
 ## Future Enhancements
 1. Implementing machine learning models for advanced analytics.
 2. Automating pipeline monitoring and optimization.
