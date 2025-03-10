@@ -10,7 +10,7 @@ Here are some of my data engineering projects, covering AWS, Azure, and GCP:
 
 ### **🚀 [AWS Real-Time Kafka Data Engineering Project](./AWS-Real-Time-Kafka-Data-Engineering-Project)**
 - Built a **real-time data streaming pipeline** using **Apache Kafka** and **AWS Kinesis**.
-- Integrated with **AWS Lambda** and **Redshift** for real-time data ingestion and analysis.
+- Integrated with **AWS Lambda** and **Athena** for real-time data ingestion and analysis.
 - Processed and stored large-scale event-driven data for analytics.
 
 ### **📊 [Azure Olympic Data Analytics Project](./Azure-Olympic-Data-Analytics-Project)**
@@ -29,11 +29,11 @@ Here are some of my data engineering projects, covering AWS, Azure, and GCP:
 - **Programming:** Python, SQL, Bash  
 - **Cloud Platforms:** AWS, Azure, GCP  
 - **Big Data & ETL:** Apache Kafka, Airflow, Mage  
-- **Data Warehouses:** BigQuery, Azure Synapse  
+- **Data Warehouses:** BigQuery, Athena, Azure Synapse  
 - **BI & Visualization:** Looker, Power BI  
 
 ---
 
 ## 📫 Contact  
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- Email: your.email@example.com  
+- Email: email  
