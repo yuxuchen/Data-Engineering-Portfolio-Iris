@@ -13,7 +13,7 @@ Here are some of my data engineering projects, covering AWS, Azure, and GCP:
 - Integrated with **AWS Lambda** and **Redshift** for real-time data ingestion and analysis.
 - Processed and stored large-scale event-driven data for analytics.
 
-### **📊 [Azure Olympic Data Analytics Project](./Azure Olympic Data Analytics Project)**
+### **📊 [Azure Olympic Data Analytics Project](./Azure-Olympic-Data-Analytics-Project)
 - Developed a **data warehouse and analytics solution** for **Paris 2024 Olympics** data.
 - Utilized **Azure Synapse, Azure Data Factory, and Power BI** for ETL and visualization.
 - Extracted key performance insights on athletes, medals, and sports trends.
