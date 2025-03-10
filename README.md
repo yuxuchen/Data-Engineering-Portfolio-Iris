@@ -1,7 +1,7 @@
-# 💡 Ares's Data Engineering Portfolio
+# 💡 Yuxuan(Iris)'s Data Engineering Portfolio
 
 ## 👋 About Me  
-Hi, I'm Ares, a Data Engineer with expertise in cloud-based data pipelines, ETL, and big data analytics. I have hands-on experience working with **AWS, Azure, and GCP**, developing scalable data solutions for real-time and batch processing.
+Hi, I'm Iris, a Data Engineer with experience in cloud-based data pipelines, ETL, and big data analytics. I have hands-on experience working with **AWS, Azure, and GCP**, developing scalable data solutions for real-time and batch processing.
 
 ---
 
