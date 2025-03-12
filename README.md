@@ -35,5 +35,4 @@ Here are some of my data engineering projects, covering AWS, Azure, and GCP:
 ---
 
 ## 📫 Contact  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- Email: email  
+- Email: chenyuxuan0930@gmail.com 
